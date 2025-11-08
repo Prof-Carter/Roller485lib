@@ -1,5 +1,10 @@
 # Roller485lib
 
+## Update History
+
+* ver.1.1 Release (2025/11/08)
+* ver.1.0 Release (2025/10/27)
+
 ## Citation / Usage Notice
 
 If you use this library in a research presentation, paper, or educational material,
@@ -40,9 +45,5 @@ The author assumes no responsibility for any damage or loss caused by its use.
 
 MIT License
 (See the LICENSE file for details)
-
-## Update History
-
-* ver.1.0 Release (2025/10/27)
 
 © 2025 Masakatsu Kawata
