@@ -16,11 +16,12 @@ This library is designed for MATLAB/Simulink users who wish to control Roller485
 
 ## Installation
 1. Extract the downloaded files to any folder, for example:
-C:\hoge\Roller485lib
+C:\hoge\Roller485lib-main
 
 2. Add the folder path to MATLAB using:  
 ```
->> addpath('C:\hoge\Roller485lib')
+>> addpath('C:\hoge\Roller485lib-main')
+>> roller485lib
 ```
 
 ## Contents
