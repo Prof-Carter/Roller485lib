@@ -2,6 +2,7 @@
 
 ## Update History
 
+* ver.1.3 Release (2025/11/11)
 * ver.1.1 Release (2025/11/08)
 * ver.1.0 Release (2025/10/27)
 
