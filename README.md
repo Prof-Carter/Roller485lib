@@ -2,10 +2,17 @@
 
 ## Update History
 
+* ver.1.5 Release (2025/12/11)
+    * Fix the incorrect address for the position mode PID gain parameters of the "I2C Write" library block
 * ver.1.4 Release (2025/11/29)
+    * Correct the block "basic relative angle command [rad]"
 * ver.1.3 Release (2025/11/18)
+    * Add validity duration for control mode, initial angle, PID parameters, and max current settings
 * ver.1.2 Release (2025/11/11)
+    * Change the output of the "I2C Read" library block from a 3D array to a 1D array
 * ver.1.1 Release (2025/11/08)
+    * Fix an issue where the I2C address parameter in the "I2C Read"  library block is not updating correctly
+    * Add blocks to the "I2C Write" library that allows setting the maximum current value
 * ver.1.0 Release (2025/10/27)
 
 ## Citation / Usage Notice
