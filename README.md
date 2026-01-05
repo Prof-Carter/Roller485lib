@@ -29,7 +29,7 @@ please include the following link as a reference:
 Masakatsu Kawata: https://github.com/Prof-Carter/Roller485lib
 
 ## Overview
-"Roller485lib" provides a set of Simulink blocks that make it easy to control the BLDC motor "Unit Roller485" via I2C communication.  
+Simulink library "roller485lib" provides a set of Simulink blocks that make it easy to control the BLDC motor "Unit Roller485" via I2C communication.  
 This library is designed for MATLAB/Simulink users who wish to control Roller485 from their Simulink models.
 
 ## Supported Versions
