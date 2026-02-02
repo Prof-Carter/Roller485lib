@@ -16,6 +16,7 @@
 
 * ver.1.5 Release (2025/12/11)
     * Fix the incorrect address for the position mode PID gain parameters of the "I2C Write" library block
+    * Updated sample files (2026/02/02)
 * ver.1.4 Release (2025/11/29)
     * Correct the block "basic relative angle command [rad]"
 * ver.1.3 Release (2025/11/18)
