@@ -17,8 +17,7 @@
 * ver.2.0 Release (2026/03/18)
     * Add I2C module configuration
     * Change default "Sample Time" of "I2C Read" from 0.005s to -1 (-1 for inherited)
-    * Add sample files for Raspberry Pi Pico with Grove Shield for Pi Pico (R2025b)
-    https://wiki.seeedstudio.com/Grove-Starter-Kit-for-Raspberry-Pi-Pico/
+    * Add sample files for Raspberry Pi Pico (not Pico2) using [Grove Shield for Pi Pico](https://wiki.seeedstudio.com/Grove-Starter-Kit-for-Raspberry-Pi-Pico/) (MATLAB R2025b)
 * ver.1.5 Release (2025/12/11)
     * Fix the incorrect address for the position mode PID gain parameters of the "I2C Write" library block
     * Updated sample files (2026/02/02)
