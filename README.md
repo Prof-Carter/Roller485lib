@@ -1,10 +1,10 @@
 # roller485lib
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/fbbb4101-baef-4f8a-a456-e25063d4ee9f" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/2c8fc44d-490c-4156-ae18-ffe92a92c139" />
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/6a99c60e-6a55-45a8-a9f5-d7147bb79761" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/14d1af8d-7cdd-4164-8522-ed5d7b76640f" />
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/0b398846-adbf-4193-b61c-50f43aeecf48" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/dba3c32a-6aad-422a-9c88-56cdb3a726be" />
 
 ## Link (in Japanese)
 
@@ -14,12 +14,6 @@
 
 ## Update History
 
-* ver.2.0 Release (2026/03/18)
-    * Add I2C module configuration
-    * Change default "Sample Time" of "I2C Read" from 0.005s to -1 (-1 for inherited)
-    * Add sample files for Raspberry Pi Pico using [Grove Shield for Pi Pico](https://wiki.seeedstudio.com/Grove-Starter-Kit-for-Raspberry-Pi-Pico/) 
-       * Raspberry Pi Pico using Grove Shield for Pi Pico: Required R2025b
-       * Raspberry Pi Pico 2: Not supported (regardless of version) 
 * ver.1.5 Release (2025/12/11)
     * Fix the incorrect address for the position mode PID gain parameters of the "I2C Write" library block
     * Updated sample files (2026/02/02)
