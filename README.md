@@ -14,6 +14,9 @@
 
 ## Update History
 
+* ver.2.0 Release (2025/03/18)
+    * Add I2C module configuration
+    * Change default "Sample Time" of "I2C Read" from 0.005s to -1 (-1 for inherited)
 * ver.1.5 Release (2025/12/11)
     * Fix the incorrect address for the position mode PID gain parameters of the "I2C Write" library block
     * Updated sample files (2026/02/02)
