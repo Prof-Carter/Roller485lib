@@ -2,11 +2,9 @@
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/fbbb4101-baef-4f8a-a456-e25063d4ee9f" />
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/2c8fc44d-490c-4156-ae18-ffe92a92c139" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/6a99c60e-6a55-45a8-a9f5-d7147bb79761" />
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/14d1af8d-7cdd-4164-8522-ed5d7b76640f" />
-
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/dba3c32a-6aad-422a-9c88-56cdb3a726be" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/0b398846-adbf-4193-b61c-50f43aeecf48" />
 
 ## Link (in Japanese)
 
