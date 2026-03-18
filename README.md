@@ -34,6 +34,8 @@
     * Add blocks to the "I2C Write" library that allows setting the maximum current value
 * ver.1.0 Release (2025/10/27)
 
+  Previous versions are here (https://github.com/Prof-Carter/Roller485lib_Release)
+
 ## Citation / Usage Notice
 
 If you use this library in a research presentation, paper, or educational material,
