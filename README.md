@@ -14,6 +14,12 @@
 
 ## Update History
 
+* ver.2.0 Release (2026/03/18)
+    * Add I2C module configuration
+    * Change default "Sample Time" of "I2C Read" from 0.005s to -1 (-1 for inherited)
+    * Add sample files for Raspberry Pi Pico using [Grove Shield for Pi Pico](https://www.seeedstudio.com/Grove-Shield-for-Pi-Pico-v1-0-p-4846.html)
+       * Raspberry Pi Pico using Grove Shield for Pi Pico: Required R2025b or later
+       * Raspberry Pi Pico 2: Not supported (regardless of version)
 * ver.1.5 Release (2025/12/11)
     * Fix the incorrect address for the position mode PID gain parameters of the "I2C Write" library block
     * Updated sample files (2026/02/02)
