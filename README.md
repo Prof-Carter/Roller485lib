@@ -14,7 +14,7 @@
 
 ## Update History
 
-* ver.2.0 Release (2025/03/18)
+* ver.2.0 Release (2026/03/18)
     * Add I2C module configuration
     * Change default "Sample Time" of "I2C Read" from 0.005s to -1 (-1 for inherited)
 * ver.1.5 Release (2025/12/11)
