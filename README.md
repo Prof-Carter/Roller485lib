@@ -18,7 +18,10 @@
     * Add I2C module configuration
     * Change default "Sample Time" of "I2C Read" from 0.005s to -1 (-1 for inherited)
     * Add sample files for Raspberry Pi Pico using [Grove Shield for Pi Pico](https://www.seeedstudio.com/Grove-Shield-for-Pi-Pico-v1-0-p-4846.html)
-       * Raspberry Pi Pico using Grove Shield for Pi Pico: Required R2025b or later
+       * Raspberry Pi Pico using Grove Shield for Pi Pico: Required R2024b or later
+       * The I2C module settings fixed in R2024b
+          * I2C0 ---> SDA pin: 4, SCL pin: 5
+          * I2C1 ---> SDA pin: 26, SCL pin: 27
        * Raspberry Pi Pico 2: Not supported (regardless of version)
 * ver.1.5 Release (2025/12/11)
     * Fix the incorrect address for the position mode PID gain parameters of the "I2C Write" library block
