@@ -77,8 +77,8 @@ addpath('C:\hoge\Roller485lib-main')
 Sample files for:
 * Arduino MEGA 2560 (Required R2023a or later)
 * Arduino UNO R3 (Required R2023a or later)
-* ESP32-WROOM (Required R2023a or later)
-* Raspberry Pi Pico using Grove Shield for Pi Pico (Required R2025b or later)
+* ESP32-WROOM similar to M5Stack Core/FIRE/BASIC (Required R2023a or later)
+* Raspberry Pi Pico using Grove Shield for Pi Pico (Required R2024b or later)
 
 ## Disclaimer
 
