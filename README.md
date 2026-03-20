@@ -60,8 +60,14 @@ C:\hoge\Roller485lib-main
 >> roller485lib
 ```
 
-```matlab:startup.m
-puts 'The best way to log and share programmers knowledge.'
+Note:
+Placing the following startup.m file in the folder
+C:\Users\xxx\Documents\MATLAB (where xxx is your username)
+will automatically add the path when MATLAB starts.
+
+startup.m
+```
+addpath('C:\hoge\Roller485lib-main')
 ```
 
 ## Contents
