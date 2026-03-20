@@ -60,6 +60,10 @@ C:\hoge\Roller485lib-main
 >> roller485lib
 ```
 
+```matlab:startup.m
+puts 'The best way to log and share programmers knowledge.'
+```
+
 ## Contents
 
 Sample files for:
