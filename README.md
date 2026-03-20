@@ -62,7 +62,9 @@ C:\hoge\Roller485lib-main
 
 Note:
 Placing the following startup.m file in the folder
-C:\Users\xxx\Documents\MATLAB (where xxx is your username)
+
+     C:\Users\xxx\Documents\MATLAB (where xxx is your username)
+
 will automatically add the path when MATLAB starts.
 
 startup.m
