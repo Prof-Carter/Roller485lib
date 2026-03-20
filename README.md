@@ -67,8 +67,8 @@ Placing the following startup.m file in the folder
 
 will automatically add the path when MATLAB starts.
 
-startup.m
-```
+**startup.m**
+```matlab
 addpath('C:\hoge\Roller485lib-main')
 ```
 
