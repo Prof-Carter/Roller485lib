@@ -10,7 +10,7 @@
 
 ## Supported Versions
 - MATLAB/Simulink R2023a or later
-- R2026a is not recommended due to a code generation overhead bug (2026/08/17, may be fixed in the future)
+- <font color="red"><b>R2026a is not recommended</b></font> due to a code generation overhead bug (2026/08/17, may be fixed in the future)
 
 ## Link (in Japanese)
 
