@@ -95,7 +95,7 @@ Sample files for:
 * Arduino Mega 2560 (Required R2023a or later)
 * Arduino Uno R3 (Required R2023a or later)
 * ESP32-WROOM similar to M5Stack Core/Fire/Basic (Required R2023a or later)
-* Raspberry Pi Pico using Grove Shield for Pi Pico (Required R2024b or later)
+* Raspberry Pi Pico (Required R2024b or later)
 
 ## Disclaimer
 
