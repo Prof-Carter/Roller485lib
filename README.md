@@ -13,8 +13,6 @@
 
 ## Supported Versions
 - MATLAB/Simulink R2023a or later
-> [!CAUTION]
-> - <b>R2026a is not recommended</b> due to a code generation overhead bug (2026/08/17, may be fixed in the future)
 
 
 ## Link (in Japanese)
